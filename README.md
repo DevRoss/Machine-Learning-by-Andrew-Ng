@@ -1,2 +1,2 @@
 
-Course ![Link](https://www.coursera.org/learn/machine-learning/home/welcome)
+Course https://www.coursera.org/learn/machine-learning/home/welcome
